@@ -14,7 +14,7 @@
 ```
 ここで$`\mu_0`$は真空の透磁率、$`c`$は光速を示す。
 
-Snellの式を適用して、入射角を$'\theta'$とすると
+Snellの式を適用して、入射角を$`\theta`$とすると
 ```math
 \cos\phi_j = \bigl(1-\sin^2\phi\bigr)^{1/2} = \biggl(1-\frac{n_0^2}{n_j^2}\sin^2\theta\biggr)^{1/2} = \frac{(n_j^2-n_0^2\sin^2\theta)^{1/2}}{n_j}
 ```
